@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lihtne kalkulaator</string>
+    <string name="sisesta_number1">Sisesta number</string>
+    <string name="sisesta_number2">Sisesta number</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
